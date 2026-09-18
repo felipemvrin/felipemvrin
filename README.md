@@ -11,5 +11,9 @@ Desarrollo productos digitales combinando ingeniería de software, diseño de pr
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Storybook](https://img.shields.io/badge/Storybook-FF4785?logo=storybook&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
+
+## Contacto
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipemarin/)
+[![Behance](https://img.shields.io/badge/Behance-Perfil-1769FF?style=flat-square&logo=behance&logoColor=white)](https://www.behance.net/felipemarin)
 [![Email](https://img.shields.io/badge/Email-Contactar-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:felipemarin@gmail.com)
